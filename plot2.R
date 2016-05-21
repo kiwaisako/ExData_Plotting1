@@ -1,3 +1,4 @@
+#2016-05-21 I changed as part of git practice
 #Read and subset data
 dataFile <- "./data/household_power_consumption.txt"
 data <- read.table(dataFile, header=TRUE, sep=";", stringsAsFactors=FALSE, dec=".")
